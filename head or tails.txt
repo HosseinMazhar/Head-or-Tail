@@ -1,0 +1,5 @@
+head or tail
+
+//you click on "toss coin" and then you choose between "head" and "tail"
+//if you choose correctly = you'll find it out and increase your score
+//if you don't = computer wins 
